@@ -27,7 +27,7 @@ env = environ.Env(
     DEBUG=(bool, False),
     SECRET_KEY=(
         str,
-        "django-insecure-j8op9)1q8$1&0^s&p*_0%d#pr@w9qj@1o=3#@d=a(^@9@zd@%j",
+        "django-insecure-c&508#wwv*o44yqgj2k_tjl9!@^sb#(&g$ksic@y00l!-g7#a8",
     ),
     ALLOWED_HOSTS=(list, ["*"]),
     CSRF_TRUSTED_ORIGINS=(list, ["http://localhost:8000"]),
